@@ -23,3 +23,20 @@ aluno está aprovado (PASSOU) ou não (FALHOU) e, em caso negativo,
 quantos pontos faltam para o aluno obter o mínimo para ser aprovado
 (que é 60% da nota). Deve-se criar uma classe ESTUDANTE para resolver
 o problema.
+
+#################################################
+Prática 09.1 (Esse aqui ainda vou melhorar)
+• Crie um sistema para um supermercado, que cadastre produtos e efetue
+vendas. Crie as classes:
+• Produto. 
+    Atributos:
+    • Nome
+    • Quantidade
+    • Preço
+• ControleProduto. 
+    Atributos:
+    • Produto produtos[10]
+    • ControleProduto. 
+    Métodos:
+    • efetuaVenda(Produto p, int quantidade)
+    • cadastraProduto()
